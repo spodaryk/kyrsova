@@ -1,0 +1,26 @@
+body{
+	  background: #bcbff4;
+}
+
+.infa{
+	   font-size: 20px;
+}
+.wiki{
+	   text-decoration: none;
+	   background: #6971f1;
+	   color: white;
+}
+.one{
+	 border: 1px solid grey;
+	 width: 400px;
+	 height: 830px;
+	 float: right;
+}
+.logo{
+	   height: 70px;
+	   width: 100px;
+}
+.photo1{
+	     height: 250px;
+		 width: 400px;
+}
